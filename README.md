@@ -32,6 +32,20 @@ While building this project, I improved my skills in Node.js, learned more about
 4. A new SVG file named `logo.svg` will be generated in the 'examples' folder.
 5. You can use this SVG file in your web project.
 
+</br>
+
+This is an example of the app usage:
+
+![Alt text](/lib/img/Screenshot%202023-05-23%20at%2022.19.43.png "App usage by steps")
+
+</br>
+
+And this is an example of a finished logo:
+
+![Alt text](/lib/img/Screenshot%202023-05-23%20at%2022.20.31.png "Example logo")
+
+</br>
+
 ## Credits
 
 This application was built by [Samuel Munguia](https://github.com/samuel-6).
